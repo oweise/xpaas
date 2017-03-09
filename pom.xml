@@ -182,7 +182,6 @@
             <feature>camel-blueprint</feature>
             <feature>ssh</feature>
             <feature>shell-compat</feature>
-            <feature>feature</feature>
           </startupFeatures>
           <startupBundles>
             <bundle>mvn:${project.groupId}/${project.artifactId}/${project.version}</bundle>
